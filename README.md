@@ -8,3 +8,5 @@ A simple finite state machine implementation.
 * Execution state is serializable (`org.huberb.simplesm.StateMachineExecution`)
 * Builder for creating the model (`org.huberb.simplesm.model.StateMachineBuilder`)
 * Test Cases as examples see `src/main/test/java`
+
+[![Build Status](https://travis-ci.org/bernhardhuber/statemachine.svg?branch=master)](https://travis-ci.org/bernhardhuber/statemachine)
