@@ -10,3 +10,5 @@ A simple finite state machine implementation.
 * Test Cases as examples see `src/main/test/java`
 
 [![Build Status](https://travis-ci.org/bernhardhuber/statemachine.svg?branch=master)](https://travis-ci.org/bernhardhuber/statemachine)
+
+[![Java CI](https://github.com/bernhardhuber/statemachine/actions/workflows/maven.yml/badge.svg)](https://github.com/bernhardhuber/statemachine/actions/workflows/maven.yml)
